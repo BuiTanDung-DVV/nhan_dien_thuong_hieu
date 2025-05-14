@@ -1,0 +1,4 @@
+0 Bia-Truc-Bach
+1 Coca Cola
+2 Fanta
+3 Heineken

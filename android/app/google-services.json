@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858752469882",
+    "project_id": "nhan-dien-thuong-hieu",
+    "storage_bucket": "nhan-dien-thuong-hieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858752469882:android:f6642f07cef37a51e364c3",
+        "android_client_info": {
+          "package_name": "com.example.nhan_dien_thuong_hieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYt_sw-hUe_ZCp4AkhcyK91Iy-wo83x-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
